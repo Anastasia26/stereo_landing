@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc7c836b-ed6d-407a-b054-c02462762451" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.528343">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-598">
+                  <caret line="263" column="51" lean-forward="true" selection-start-line="263" selection-start-column="51" selection-end-line="263" selection-end-column="51" />
+                  <folding>
+                    <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/full.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="508">
+                  <caret line="599" column="1" lean-forward="true" selection-start-line="586" selection-end-line="599" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/assets/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="261">
+                  <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>row</find>
+      <find>.hb-lg-margin, .hb-md-margin, .hb-sm-margin, .hb-xs-margin</find>
+      <find>d-flex</find>
+      <find>mb-20</find>
+      <find>hb-xs-margin</find>
+      <find>pricing_area</find>
+      <find>clients_feedback_area</find>
+      <find>.clients_slider .item p</find>
+      <find>body</find>
+      <find>navbar-nav</find>
+      <find>h1</find>
+      <find>.navbar</find>
+      <find>.red_circle</find>
+      <find>.black_slide_button</find>
+      <find>.btn-application</find>
+      <find>.form-control</find>
+      <find>.banner-bg .menu-responsive .hamburger</find>
+      <find>.banner-bg .menu-responsive input:checked + .menu + ul</find>
+      <find>.banner-bg .menu-responsive .menu</find>
+      <find>.card</find>
+      <find>menu</find>
+      <find>card_animation</find>
+      <find>IMG</find>
+      <find>label</find>
+      <find>card-img-top</find>
+      <find>err</find>
+      <find>elements</find>
+      <find>fname</find>
+      <find>error-message</find>
+      <find>close</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/vendor/jquery/myjqueryfile.js" />
+        <option value="$PROJECT_DIR$/vendor/index.js" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/css/full.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/assets/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="819" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="колонки" type="b2602c69:ProjectViewProjectNode" />
+              <item name="колонки" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="колонки" type="b2602c69:ProjectViewProjectNode" />
+              <item name="колонки" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="колонки" type="b2602c69:ProjectViewProjectNode" />
+              <item name="колонки" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="колонки" type="b2602c69:ProjectViewProjectNode" />
+              <item name="колонки" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\verstka\js\assets" />
+      <recent name="G:\verstka\js" />
+      <recent name="G:\verstka\js\assets\jquery" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc7c836b-ed6d-407a-b054-c02462762451" name="Default" comment="" />
+      <created>1525639078801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525639078801</updated>
+      <workItem from="1525639082646" duration="12870000" />
+      <workItem from="1525729131091" duration="4910000" />
+      <workItem from="1525782997955" duration="5160000" />
+      <workItem from="1525795390883" duration="81000" />
+      <workItem from="1525803338963" duration="372000" />
+      <workItem from="1525820915333" duration="1705000" />
+      <workItem from="1525824235809" duration="5946000" />
+      <workItem from="1525901047922" duration="131000" />
+      <workItem from="1525901306039" duration="8292000" />
+      <workItem from="1525967419302" duration="159000" />
+      <workItem from="1526054559410" duration="583000" />
+      <workItem from="1526079787772" duration="1975000" />
+      <workItem from="1526146205870" duration="674000" />
+      <workItem from="1526150875181" duration="11731000" />
+      <workItem from="1526328255639" duration="9160000" />
+      <workItem from="1526400546931" duration="738000" />
+      <workItem from="1526509846640" duration="7307000" />
+      <workItem from="1526585109974" duration="53000" />
+      <workItem from="1526736200062" duration="20030000" />
+      <workItem from="1526832159171" duration="38000" />
+      <workItem from="1526839254861" duration="8735000" />
+      <workItem from="1526937121358" duration="53000" />
+      <workItem from="1527294799511" duration="4029000" />
+      <workItem from="1527511727157" duration="332000" />
+      <workItem from="1527788207547" duration="17932000" />
+      <workItem from="1527868885368" duration="376000" />
+      <workItem from="1527969596481" duration="12893000" />
+      <workItem from="1528214108953" duration="26000" />
+      <workItem from="1529357030851" duration="4026000" />
+      <workItem from="1529367965353" duration="30000" />
+      <workItem from="1529584772334" duration="3665000" />
+      <workItem from="1529608165335" duration="8049000" />
+      <workItem from="1529683070626" duration="49000" />
+      <workItem from="1529683183941" duration="615000" />
+      <workItem from="1529753705369" duration="6924000" />
+      <workItem from="1529847878911" duration="12258000" />
+      <workItem from="1529926140260" duration="5857000" />
+      <workItem from="1529942457711" duration="1905000" />
+      <workItem from="1529954396357" duration="11858000" />
+      <workItem from="1529974311225" duration="866000" />
+      <workItem from="1530276285045" duration="17829000" />
+      <workItem from="1530535111202" duration="7598000" />
+      <workItem from="1530556769819" duration="7514000" />
+      <workItem from="1530615492138" duration="3757000" />
+      <workItem from="1530657815669" duration="607000" />
+      <workItem from="1530822318661" duration="8362000" />
+      <workItem from="1548076930190" duration="1202000" />
+      <workItem from="1548098129525" duration="3000" />
+      <workItem from="1548328156648" duration="3427000" />
+      <workItem from="1548507991575" duration="738000" />
+      <workItem from="1548593890808" duration="731000" />
+      <workItem from="1548682347910" duration="199000" />
+      <workItem from="1555085389114" duration="4789000" />
+      <workItem from="1555185690466" duration="2790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="251939000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="819" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.030303031" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32724252" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/assets/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/assets/bootstrap/css/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1224" />
+      </provider>
+    </entry>
+    <entry file="file://E:/PhpstormProjects/cherry/css/style.css" />
+    <entry file="file://$USER_HOME$/Desktop/Новая папка/css/main.css" />
+    <entry file="file://$USER_HOME$/Desktop/Новая папка/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/Новая папка/susan/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/Новая папка/susan/theme/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/Новая папка/susan/theme/css/style.css" />
+    <entry file="file://$USER_HOME$/Desktop/Новая папка (2)/MobApp/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/Новая папка (2)/MobApp/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/js/assets/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="5" column="65379" selection-start-line="5" selection-start-column="65379" selection-end-line="5" selection-end-column="65379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js" />
+    <entry file="file://$PROJECT_DIR$/anime.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/myjqueryfile.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6156" column="13" selection-start-line="6156" selection-start-column="13" selection-end-line="6156" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598">
+          <caret line="263" column="51" lean-forward="true" selection-start-line="263" selection-start-column="51" selection-end-line="263" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/assets/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/full.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="599" column="1" lean-forward="true" selection-start-line="586" selection-end-line="599" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
